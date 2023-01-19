@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Reminger-FileConverter'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F09ECCAC70434F03B0AA312DFAF8FA31 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ABBCF0D51DCB4C739135A66ADB83A4D3 }}
           package: .
